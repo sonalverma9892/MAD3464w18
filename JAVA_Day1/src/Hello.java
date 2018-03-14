@@ -16,7 +16,7 @@ public class Hello {
         int number = 10; //int and float - 4 bytes
         float percentage;
         char vowel = 'a';
-        String firstName = "DT";
+        String firstName = "SV";
         
         
         System.out.println("Value of number : " + number);
