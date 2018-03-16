@@ -1,0 +1,4 @@
+day4abstract.MyShapeNew
+day4abstract.ShapeNew
+day4abstract.Rectangle
+day4abstract.MyCircle
